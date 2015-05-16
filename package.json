@@ -1,0 +1,13 @@
+{
+	"name": "nhs-application-webapp",
+	"version": "0.0.1",
+	"description": "App for tracking application scores for NHS training jobs",
+	"author": "Thomas Trenner <thomas.trenner@gmail.com>",
+	"main": "server.js",
+	"dependencies": {
+		"express": ">=4.5.1",
+		"mongoose": ">=3.8.0",
+		"body-parser": ">=1.4.2",
+		"method-override" : ">=2.0.2"
+	}
+}

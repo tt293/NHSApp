@@ -1,0 +1,13 @@
+{
+	"name": "nhs-application-webapp",
+	"version": "0.0.1",
+	"description": "App for tracking application scores for NHS training jobs",
+	"author": "Thomas Trenner <thomas.trenner@gmail.com>",
+	"dependencies": {
+		"bootstrap": "latest",
+		"font-awesome": "latest",
+		"animate.css": "latest",
+		"angular" : "latest",
+		"angular-route": "latest"
+	}
+}
